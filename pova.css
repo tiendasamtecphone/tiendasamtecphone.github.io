@@ -1,0 +1,171 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: "Open Sans", calibri;
+}
+.cuerpo{
+	/*background-image: url(imagenes/log8.png), url("imagenes/img7.jpg");*/
+	background-image: linear-gradient(white );*/
+	background-attachment: fixed ,scroll;
+	/*background-repeat: no-repeat, repeat-y ;*/
+	background-size: 1740px 920px;
+}
+header{
+	width: 100%;
+	height: 70px;
+	background: #092327
+}
+.paquete{
+	max-width: 100%;
+	padding: 0 10px;
+	margin: auto;
+}
+.logo{
+	float: left;
+	padding: 0px 25px 0;
+}
+.logo img{
+	height: 80px;
+}
+.logo:hover{
+	transform: scale(1.1);
+}
+.nav{
+	float: right;
+	display: flex;
+	align-items: center;
+	min-height: 70px;
+	z-index: 1000;
+}
+.nav ul{
+	line-height: 2;
+	list-style: none;
+	padding: 0 4px;
+}
+.nav ul li {
+	display: inline-block;
+	position: relative;
+	transition:.1s linear;
+	z-index: 1000;
+
+	border-color: #F5723D;
+	border-width: 3px;
+	border-style: solid;*/
+}
+.nav ul li:hover{
+	transform: scale(1.1);
+}
+
+.nav ul li a{
+	background: #092327;
+	color: white;
+
+	text-align: center;
+	text-transform: uppercase;
+	font: 14px bold ;
+	padding: 12px 20px;
+	transition: .3s linear;
+	
+	/*border: 1px solid yellow;*/
+}
+.nav ul li a:hover{
+	background: #6E36BD ;
+	color: #FC0B0B;
+	
+}
+
+.nav ul li:hover .nav__samsung--dist{
+	display: block;
+}
+.nav .nav__samsung .nav__samsung--dist{
+	display: none;
+	background: #0b132b;
+	position: absolute;
+	width: 100%;
+}
+.nav .nav__samsung .nav__samsung--dist li{
+	display: block;
+	border-bottom: none;
+	overflow: hidden;
+}
+.nav .nav__samsung .nav__samsung--dist li a{
+	display: block;
+}
+
+
+
+
+
+.nav ul li:hover .nav__tecno--dist{
+	display: block;
+}
+.nav .nav__tecno .nav__tecno--dist{
+	display: none;
+	background: #0b132b;
+	position: absolute;
+	width: 100%;
+}
+.nav .nav__tecno .nav__tecno--dist li{
+	display: block;
+	border-bottom: none;
+	overflow: hidden;
+}
+.nav .nav__tecno .nav__tecno--dist li a{
+	display: block;
+}
+
+
+
+.nav ul li:hover .nav__xiaomi--dist{
+	display: block;
+}
+.nav .nav__xiaomi .nav__xiaomi--dist{
+	display: none;
+	background: #0b132b;
+	position: absolute;
+	width: 100%;
+}
+.nav .nav__xiaomi .nav__xiaomi--dist li{
+	display: block;
+	border-bottom: none;
+	overflow: hidden;
+}
+.nav .nav__xiaomi .nav__xiaomi--dist li a{
+	display: block;
+}
+
+
+
+.nav ul li:hover .nav__apple--dist{
+	display: block;
+}
+.nav .nav__apple .nav__apple--dist{
+	display: none;
+	background: #0b132b;
+	position: absolute;
+	width: 100%;
+}
+.nav .nav__apple .nav__apple--dist li{
+	display: block;
+	border-bottom: none;
+	overflow: hidden;
+}
+.nav .nav__apple .nav__apple--dist li a{
+	display: block;
+}
+
+@font-face{
+	font-family: SecularOneRegular;
+	src: url('SecularOneRegular.ttf') format('truetype');
+}
+.area-grande{
+	FO
+	width: 1200px;
+	height: 700px;
+}
+.imgs{
+	float: left;
+	font-family: SecularOneRegular;
+}
