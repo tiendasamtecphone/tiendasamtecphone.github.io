@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>examen practico</title>
+</head>
+<body background="imagenes/tecno8.jpg">
+	<h1>
+		<b>
+			<font color="white" face="verdana">
+				<center>
+					<font size="7">
+					TECNO MOBILE
+				</font>
+				</center>
+			</font>
+		</b>
+	</h1>
+
+	<div align="lift"><P>
+		<font color="white" face="calibri"><b><font size="5">Esta empresa de telefonos inteligentes, es una empresa dueña de la frase "calidad-precio", puesto a que cuentan con celulares de gama media y gama media alta, a precio de gama baja.<br>
+		Cuentan con muy buenos dispositvos inteligentes ya que ofrecen mucho por un muy bajo costo. Esta empreso empezo trayendo celulares de gama baja al pais, y se fue posicionando, innivando con mas dispositvos en el mercado. <br>
+	    Tienen celulares para areas muy especificas, tanto para lo fotografico, como lo gaming, celulares como el Camon 19 pro, Camon 18p, Camon 18 premier, y sus descendientes, son para dar un buen resultado en las camras, ya que toman muy buenas fotos, tanto de dia como de noche.<br>
+	   <div align="center"> <img src="imagenes/tecno4.webp" width="450px" height=" 250px"></div> 
+
+	     <br>Y dispositivos como la familia de los Pova, como Pova 5G, Pova 3, Pova4, Pova 4 pro, ofrecen un muy buen rendmiento para el apartado de los juegos, permitiendo tener un muy buen desempeño gaming.</font></b></font>
+	</P></div>
+	<p>
+		<b>
+			<font color="white" face="calibri"><font size="5">
+				
+				Esta marca esta subiendo de ranking cada vez mas en el mercado de celulares inteligentes, puesto a que en las redes sociales hay monton de videos de personas haciendo unboxing y reviws de estos celulares que van saliendo cada vez mas al mercado, en el cual muestran a detalle las especificaciones de estos.<br><br> </font>
+				<DIV align="center"><video src="POVA4PRO.mp4" controls="" width="700px" height="350px">
+					
+				</video>
+			    </DIV>
+
+			    <DIV align="center"><audio src="audio.opus" controls="" >
+					
+				</audio>
+			    </DIV>
+			</font>
+		</b>
+	</p>
+	
+	<div>
+
+		<h2>
+			<b>
+				<FONT color="white" face="calibri">
+				<font size="6">
+					REDES SOCIALES DE TECNO MOBILE
+				</font>
+			</FONT>
+			</b>
+		</h2>
+
+		<ul>
+			<font color="white" face="calibri" size="6">
+				<li>
+				<a href="https://www.youtube.com/c/TECNOMobile" target="_bank"> <font color="white">YOUTUBE: TECNO MOBILE</font></a>
+			    </li>
+		    
+				<li>
+				<a href="https://www.facebook.com/TECNOMobileBolivia/" target="_bank"> <font color="white">FACEBOOK: TECNO MOBILE</font></a>
+			    </li>
+
+			    <li>
+				<a href="https://instagram.com/tecnomobilebolivia?igshid=MDE2OWE1N2Q=" target="_bank"> <font color="white"> INSTAGRAM: TECNO MOBILE</font></a>
+			    </li>
+		    </font>
+		</ul>
+
+	</div>
+
+</body>
+</html>
